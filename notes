@@ -1,1 +1,2 @@
-cargo install find-subimage 
+look into using find-subimage rust crate for detecting images in frame stream
+figure out how obs-wrapper works and make an obs plugin to pull video stream into detection module
